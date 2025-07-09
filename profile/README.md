@@ -92,13 +92,13 @@ Kardia digerakkan oleh semangat kolaborasi dari para kontributor inti kami.
 
 ### 🧠 Tanya Jawab (FAQ)
 
-**Q: Apakah Kardia menggantikan peran dokter?**
+**Q: Apakah Kardia menggantikan peran dokter?**<br>
 **A:** **Sama sekali tidak.** Kardia adalah alat bantu informasi dan skrining dini. Aplikasi ini dirancang untuk mendukung, bukan menggantikan, konsultasi dan diagnosis dari tenaga medis profesional.
 
-**Q: Seberapa akurat analisis AI-nya?**
+**Q: Seberapa akurat analisis AI-nya?**<br>
 **A:** Analisis kami didasarkan pada model klinis [SCORE2](https://academic.oup.com/eurheartj/article/45/Supplement_1/ehae666.2696/7835147) yang telah divalidasi secara ilmiah untuk estimasi risiko 10 tahun ke depan.
 
-**Q: Bagaimana keamanan data saya dijamin?**
+**Q: Bagaimana keamanan data saya dijamin?**<br>
 **A:** Keamanan dan privasi Anda adalah prioritas utama kami. Semua data sensitif dienkripsi baik saat transit maupun saat disimpan, dan kami menerapkan praktik terbaik untuk melindungi akun Anda.
 
 ---
