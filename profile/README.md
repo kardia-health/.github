@@ -78,7 +78,7 @@ Kardia dibangun menggunakan teknologi modern yang andal dan skalabel.
 
 ---
 
-### 👨‍💻 Tim Inti Komunitas
+### 👨‍💻 Super Team 
 
 Kardia digerakkan oleh semangat kolaborasi dari para kontributor inti kami.
 
